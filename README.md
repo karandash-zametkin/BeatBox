@@ -1,3 +1,3 @@
 # BeatBox
 BeatBox 
-release v1 
+release v1 simple app
